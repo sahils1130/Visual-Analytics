@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48dfd939-1e56-4196-a7f2-3149199458a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WzcSC3PqZ8lOU3HFMZGw0hgyEd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sahil Shah\Documents\Masters\Visual Analytics\Assignment 2\venv" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="hoola" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assignment 2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/Scripts/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/hoola.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hoola" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48dfd939-1e56-4196-a7f2-3149199458a9" name="Default Changelist" comment="" />
+      <created>1580155860145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580155860145</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#Inspections" timestamp="1580157841581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1580157841581" />
+    <state x="361" y="72" key="#Project_Structure" timestamp="1580157954377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1580157954377" />
+    <state x="279" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580520024199">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1580158007942" />
+    <state x="279" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-134.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580520024199" />
+    <state x="524" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580194656988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1580194656988" />
+    <state x="507" y="17" key="#scavenger_hunt" timestamp="1580156012759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="507" y="17" key="#scavenger_hunt/0.0.1536.824@0.0.1536.824" timestamp="1580156012759" />
+    <state x="685" y="212" key="FileChooserDialogImpl" timestamp="1580520021074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580442102061" />
+    <state x="685" y="212" key="FileChooserDialogImpl/1920.-134.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580520021074" />
+    <state width="1690" height="187" key="GridCell.Tab.0.bottom" timestamp="1580520189816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580496504008" />
+    <state width="1690" height="187" key="GridCell.Tab.0.bottom/1920.-134.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580520189816" />
+    <state width="1690" height="187" key="GridCell.Tab.0.center" timestamp="1580520189816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580496504008" />
+    <state width="1690" height="187" key="GridCell.Tab.0.center/1920.-134.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580520189816" />
+    <state width="1690" height="187" key="GridCell.Tab.0.left" timestamp="1580520189816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580496504007" />
+    <state width="1690" height="187" key="GridCell.Tab.0.left/1920.-134.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580520189816" />
+    <state width="1690" height="187" key="GridCell.Tab.0.right" timestamp="1580520189816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580496504008" />
+    <state width="1690" height="187" key="GridCell.Tab.0.right/1920.-134.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580520189816" />
+    <state width="1342" height="242" key="GridCell.Tab.1.bottom" timestamp="1580496504008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580496504008" />
+    <state width="1342" height="242" key="GridCell.Tab.1.center" timestamp="1580496504008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580496504008" />
+    <state width="1342" height="242" key="GridCell.Tab.1.left" timestamp="1580496504008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580496504008" />
+    <state width="1342" height="242" key="GridCell.Tab.1.right" timestamp="1580496504008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580496504008" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1580194414718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580194414718" />
+    <state x="581" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1580519739511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580442079487" />
+    <state x="581" y="300" key="com.intellij.ide.util.TipDialog/1920.-134.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580519739511" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scavenger_hunt.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
